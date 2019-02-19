@@ -1,4 +1,4 @@
 # Alamofire-SwiftyJSON
 
-- pod install
+- Open terminal -> pod install
 - open: xcworkspace
